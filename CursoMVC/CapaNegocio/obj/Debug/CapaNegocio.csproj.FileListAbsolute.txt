@@ -1,0 +1,11 @@
+D:\ProgramacionWEB\NET\SistemaCompras\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\ProgramacionWEB\NET\SistemaCompras\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\ProgramacionWEB\NET\SistemaCompras\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\ProgramacionWEB\NET\SistemaCompras\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\ProgramacionWEB\NET\SistemaCompras\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\ProgramacionWEB\NET\SistemaCompras\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\ProgramacionWEB\NET\SistemaCompras\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\ProgramacionWEB\NET\SistemaCompras\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\ProgramacionWEB\NET\SistemaCompras\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\ProgramacionWEB\NET\SistemaCompras\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\ProgramacionWEB\NET\SistemaCompras\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
